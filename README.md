@@ -8,8 +8,6 @@
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/Oksanteel/javatask1.1/issues/1
-* https://github.com/Oksanteel/javatask1.1/issues/2
-* https://github.com/Oksanteel/javatask1.1/issues/3
 
 ## Описание процесса тестирования
 
